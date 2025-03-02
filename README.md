@@ -12,7 +12,7 @@ I completed a data analytics project showcasing my skills in SQL, R, Python, and
 - Majority of houses are prices in between 300K - 400K
 
 ## Tools Used
-- **SQL**: Extracted and cleaned data.
+- **SQL**: Extracted and cleaned data, data exploration.
 - **Tableau**: Visualized trends and distributions.
 - **R**: Conducted regression analysis, feature engineering, and random forest modeling.
 - **Python (Pandas, Seaborn, Scikit-learn)**: Complementary data analysis.
@@ -21,5 +21,3 @@ I completed a data analytics project showcasing my skills in SQL, R, Python, and
 📂 `SQL/` – SQL queries  
 📂 `R/` – R scripts for analysis and modeling  
 📂 `Python/` – Jupyter notebooks for additional analysis  
-📂 `Visualizations/` – Charts and graphs  
-📂 `Data/` – Sample dataset (if allowed)  
