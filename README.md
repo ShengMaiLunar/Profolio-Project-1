@@ -27,7 +27,7 @@ This project gave me a lot of hands-on experience with SQL, machine learning, an
 ## File Structure
 📂 `SQL/` – SQL queries  
 📂 `query_excel_files/` – SQL results exported into excel, used for Tableau   
-📂 `Tableau/` – Visualization on Tableau using SQL results
+📂 `Tableau/` – Visualization on Tableau using SQL results  
 📂 `R/` – R scripts for analysis and modeling  
 📂 `Python/` – Jupyter notebooks for additional analysis   
 
