@@ -20,6 +20,6 @@ I completed a data analytics project showcasing my skills in SQL, R, Python, and
 ## File Structure
 📂 `SQL/` – SQL queries  
 📂 `R/` – R scripts for analysis and modeling  
-📂 `Python/` – Jupyter notebooks for additional analysis  
-📂 `query_excel_files/` – SQL results exported into excel, used for Tableau
+📂 `Python/` – Jupyter notebooks for additional analysis   
+📂 `query_excel_files/` – SQL results exported into excel, used for Tableau   
 📂 `Tableau/` – Visualization on Tableau using SQL results
